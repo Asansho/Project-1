@@ -40,6 +40,7 @@
       "#feat" => "Features",
       "#about" => "About me",
       "#news" => "My Blog",
+      "Partner" => "my Partner",
       "#history" => "My History",
       "#photos" => "Look my Photos",
       "#contact" => "Get in Touch!",
