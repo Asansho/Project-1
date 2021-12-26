@@ -244,8 +244,8 @@ calling extra attention to featured content or information.</p>",0,40);'...'
                             </a>
                         </div>
                         <div class="item">
-                        <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaqna0ENa2rP2M2mRyWHZS59Gf0nHZErXBvA&usqp=CAU?.jpg?image=454">
-                              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaqna0ENa2rP2M2mRyWHZS59Gf0nHZErXBvA&usqp=CAU?" alt="" />
+                        <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOa7JDXTiS35D4WELRAyWaJU0aCuN4vYyYqpCT-IWVoGoWJfoQ7pTgrJNp7EmmVWGwGRQ&usqp=CAU?jpg?image=454">
+                              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOa7JDXTiS35D4WELRAyWaJU0aCuN4vYyYqpCT-IWVoGoWJfoQ7pTgrJNp7EmmVWGwGRQ&usqp=CAU?" alt="" />
                             </a>                                         
                         </div>
                     </div>
